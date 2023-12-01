@@ -2,7 +2,6 @@ nav a {
     text-decoration: none;
     transition: 0.5s;
     color: orange;
-    font-size: medium;
 }
 nav a:hover{
     color: brown;
