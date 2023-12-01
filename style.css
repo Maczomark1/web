@@ -1,0 +1,11 @@
+nav a {
+    text-decoration: none;
+    transition: 0.5s;
+    color: orange;
+}
+nav a:hover{
+    color: brown;
+    background-color: antiquewhite;
+    font-weight: bold;
+    font-style: italic;
+}
