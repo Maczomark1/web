@@ -9,3 +9,9 @@ nav a:hover{
     font-weight: bold;
     font-style: italic;
 }
+footer{
+    padding: 10px;
+    background-color: darkblue;
+    text-align: center;
+    color: red;
+}
