@@ -15,3 +15,7 @@ footer{
     text-align: center !important;
     color: red;
 }
+body{
+    background-color: gray;
+    color: white;
+}
