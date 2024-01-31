@@ -21,6 +21,8 @@ body{
 }
 div{
     background-color: gray;
+    width: auto;
+    height: auto;
 }
 #IKT{
     color: green;
